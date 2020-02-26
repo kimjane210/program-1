@@ -1,0 +1,16 @@
+def wardrobe (word):
+    print (len('1234'))
+    if word == 'interview':
+        return 'blazer, collared shirt, skirt, heels' 
+    print (len('12345'))
+    if word == 'casual':
+        return 'jeans, tshirt, sneakers, cap, hi'
+    print (len('123456'))
+    if word == 'dinner':
+        return 'coat, dress, heels, earrings, purse, ring'
+
+wardrobe ('interview')
+
+wardrobe ('casual')
+
+wardrobe ('dinner')
